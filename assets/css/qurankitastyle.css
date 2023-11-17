@@ -1,0 +1,63 @@
+
+
+
+.card{
+    background-color: #4d8c83;
+    /* display: block; */
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    
+      
+      
+  }
+.navbar{
+  background-color: #1f5160;
+  
+
+}
+
+a{
+    text-decoration: none;
+}
+/* style vc_header */
+
+.navbar-nav {
+    margin: auto;
+}
+
+
+/* style vc_search */
+.title-search{
+    color: black;
+    font-size: 48px;
+    
+}
+
+.wrapper-search{
+
+    width:350px;
+    margin: 20px auto;
+}
+
+/* v surah */
+
+/* 
+.card{
+    background-color: aquamarine;
+} */
+
+
+/* v beranda */
+.card-title{
+  
+  font-size: 20px;
+}
+
+/* isi surah */
+.doa{
+  font-size: 44px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ayat, .latin{
+  font-size: 26px;
+}
